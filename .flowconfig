@@ -1,0 +1,7 @@
+[include]
+./src/js/
+
+[ignore]
+.*/node_modules/*
+.*/dist/*
+.*/plop_templates/*
